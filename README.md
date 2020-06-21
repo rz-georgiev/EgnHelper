@@ -4,3 +4,6 @@
 ### Sample usage
 IEgnManager manager = new EgnManager();  
 var data = manager.GetData("0123456789");
+
+###Note:
+Can be found as a nuget package
