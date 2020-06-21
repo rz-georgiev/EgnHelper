@@ -5,6 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageIcon>favicon-32x32.png</PackageIcon>
+    <Description>Extracts data for bulgarian citizens, using the specified egn</Description>
+    <PackageProjectUrl>https://github.com/rz-georgiev/EgnHelper</PackageProjectUrl>
+    <PackageTags>egn, helper, bulgaria, citizen, extract</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
