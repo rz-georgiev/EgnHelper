@@ -4,13 +4,13 @@ namespace EgnHelper
 {
     internal class Program
     {
-        private static IEgnHelper _egnHelper;
+        private static IEgnManager _egnManager;
 
         private static void Main(string[] args)
         {
             // Sample using of the GetEgnData method, using a valid, but still a fake egn
-            _egnHelper = new EgnHelper();
-            var data = _egnHelper.GetEgnData("6101057509");
+            _egnManager = new EgnManager();
+            var data = _egnManager.GetEgnData("6101057509");
 
             Console.WriteLine($"Gender: {data.Gender}");
             Console.WriteLine($"Current age: {data.CurrentAge}");

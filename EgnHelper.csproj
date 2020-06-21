@@ -8,6 +8,7 @@
     <Description>Extracts data for bulgarian citizens, using the specified egn</Description>
     <PackageProjectUrl>https://github.com/rz-georgiev/EgnHelper</PackageProjectUrl>
     <PackageTags>egn, helper, bulgaria, citizen, extract</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

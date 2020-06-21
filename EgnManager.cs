@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class EgnHelper : IEgnHelper
+    public class EgnManager : IEgnManager
     {
         /// <summary>
         /// Retruns basic bulgarian citizen information using the specified EGN

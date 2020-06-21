@@ -1,6 +1,6 @@
 ﻿namespace EgnHelper
 {
-    public interface IEgnHelper
+    public interface IEgnManager
     {
         /// <summary>
         /// Retruns basic bulgarian citizen information using the specified EGN
