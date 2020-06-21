@@ -1,0 +1,13 @@
+E:\Development\EgnHelper\EgnHelper\bin\Debug\netcoreapp3.1\EgnHelper.exe
+E:\Development\EgnHelper\EgnHelper\bin\Debug\netcoreapp3.1\EgnHelper.deps.json
+E:\Development\EgnHelper\EgnHelper\bin\Debug\netcoreapp3.1\EgnHelper.runtimeconfig.json
+E:\Development\EgnHelper\EgnHelper\bin\Debug\netcoreapp3.1\EgnHelper.runtimeconfig.dev.json
+E:\Development\EgnHelper\EgnHelper\bin\Debug\netcoreapp3.1\EgnHelper.dll
+E:\Development\EgnHelper\EgnHelper\bin\Debug\netcoreapp3.1\EgnHelper.pdb
+E:\Development\EgnHelper\EgnHelper\obj\Debug\netcoreapp3.1\EgnHelper.AssemblyInfoInputs.cache
+E:\Development\EgnHelper\EgnHelper\obj\Debug\netcoreapp3.1\EgnHelper.AssemblyInfo.cs
+E:\Development\EgnHelper\EgnHelper\obj\Debug\netcoreapp3.1\EgnHelper.csproj.CoreCompileInputs.cache
+E:\Development\EgnHelper\EgnHelper\obj\Debug\netcoreapp3.1\EgnHelper.dll
+E:\Development\EgnHelper\EgnHelper\obj\Debug\netcoreapp3.1\EgnHelper.pdb
+E:\Development\EgnHelper\EgnHelper\obj\Debug\netcoreapp3.1\EgnHelper.genruntimeconfig.cache
+E:\Development\EgnHelper\EgnHelper\obj\Debug\netcoreapp3.1\EgnHelper.csprojAssemblyReference.cache
