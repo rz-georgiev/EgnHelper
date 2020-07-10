@@ -7,3 +7,5 @@ var data = manager.GetData("0123456789");
 
 ### Note:  
 Can be found as a nuget package
+
+https://www.nuget.org/packages/EgnHelper/
